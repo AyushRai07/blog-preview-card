@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01Rc). Frontend Mentor challenges help me improve my front-end development skills by building real-world components.
+This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help me improve my front-end development skills by building real-world components.
 
 ## Screenshot
 
@@ -9,7 +9,7 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 ## Links
 
 - Solution URL: [GitHub Repo](https://github.com/AyushRai07/blog-preview-card.git)
-- Live Site URL: [Live Demo on GitHub Pages](https://AyushRai07.github.io/blog-preview-card)
+- Live Site URL: [Live Demo on GitHub Pages](https://ayushrai07.github.io/blog-preview-card/)
 
 ## My process
 
